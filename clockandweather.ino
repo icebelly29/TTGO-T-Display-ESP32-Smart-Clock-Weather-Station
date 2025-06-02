@@ -1,3 +1,5 @@
+// This Code file includes Weather + Clock
+
 #include <WiFi.h>
 #include <HTTPClient.h>
 #include <ArduinoJson.h>
